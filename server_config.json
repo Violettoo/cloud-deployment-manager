@@ -1,0 +1,8 @@
+{
+  "active_nodes": [
+    "client-node-01",
+    "client-node-02"
+  ],
+  "sync_interval": 300,
+  "master_container": "production-payloads"
+}

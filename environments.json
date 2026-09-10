@@ -1,0 +1,14 @@
+{
+  "environments": {
+    "cluster_alpha": {
+      "display_name": "Cluster Alpha (Production)",
+      "target_file": "save_slot_01.sav",
+      "sync_enabled": true
+    },
+    "cluster_beta": {
+      "display_name": "Cluster Beta (Staging)",
+      "target_file": "save_slot_02.sav",
+      "sync_enabled": false
+    }
+  }
+}

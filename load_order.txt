@@ -1,0 +1,12 @@
+BepInEx\plugins\AutoPickupArrows.dll
+BepInEx\plugins\BetterLive\BetterLive.dll
+BepInEx\plugins\BetterLive\BetterLive.module-dependencies.txt
+BepInEx\plugins\BetterLive\BetterLive.Shared.dll
+BepInEx\plugins\BetterTorches.dll
+BepInEx\plugins\BuildAnywhere.dll
+BepInEx\plugins\CompleteDismantle.dll
+BepInEx\plugins\LiftMore.dll
+BepInEx\plugins\MoveBuilding.dll
+BepInEx\config\ShowPlayerOnMap.cfg
+BepInEx\plugins\ShowPlayerOnMap.dll
+BepInEx\plugins\BetterLive\BetterLive.Module.VoiceChat.dll

@@ -1,0 +1,5 @@
+{
+    "environment_mode": "production",
+    "local_data_directory": "./data/sync_target",
+    "log_level": "INFO"
+}
