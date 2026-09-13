@@ -43,7 +43,7 @@ sequenceDiagram
 ```
 
 **Host side**
-- `DAEMON_SYNC.py` — filesystem watcher (`watchdog`) triggering debounced,
+- `daemon_sync.py` — filesystem watcher (`watchdog`) triggering debounced,
   gzip-compressed, MD5-deduplicated save uploads on write events.
 - `admin_dashboard.py` — environment/profile management GUI; writes a
   single canonical config consumed by every other component.
